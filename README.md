@@ -22,7 +22,7 @@ I'm open to contributions and feedback! If you'd like to share your own SQL quer
 
 ## Connect with Me
 
-If you'd like to connect, discuss SQL, or share your own experiences, you can reach me through GitHub or via email at [your@email.com](mailto:emlbxtr@icloud.com).
+If you'd like to connect, discuss SQL, or share your own experiences, you can reach me through GitHub or via email at emlbxtr@icloud.com
 
 Thank you for visiting my SQL Queries Showcase repository. I hope you find these queries helpful and inspiring as you explore the fascinating world of SQL!
 
